@@ -4,7 +4,7 @@
 
 ## Intro
 
-This repository contains the Jupyter Notebook employed for the teaching experience described in this document. The paper published as a result of this work can be found [here](https://doi.org/10.1002/cae.22383) (DOI: https://doi.org/10.1002/cae.22383).
+This repository contains the Jupyter Notebook employed for the teaching experience described in this document. The paper published as a result of this work can be found [here](https://doi.org/10.1002/cae.22383).
 
 ## Purpose
 
