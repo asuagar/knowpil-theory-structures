@@ -4,7 +4,7 @@
 
 ## Intro
 
-This repository contains the Jupyter Notebook employed for the teaching experience described in this document. The paper published as a result of this work can be found [here](https://doi.org/10.1002/cae.22383).
+This repository contains the Jupyter Notebook employed for the teaching experience described in this document. The paper published as a result of this work can be found [here](https://doi.org/10.1002/cae.22383) (DOI: https://doi.org/10.1002/cae.22383).
 
 ## Purpose
 
@@ -21,3 +21,7 @@ The total number of opinions registered was 28. Although half of the students sa
 ## Conclusion
 
 This methodology has promoted an interactive learning environment in which the stiffness method for structural calculations should be analyzed. It enhances self‐regulated learning and promotes blended learning and a collaborative environment. The survey responses reflected their high levels of acceptance of this teaching methodology.
+
+## Citation
+
+Suárez‐García, A., Arce‐Fariña, E., Álvarez Hernández, M., & Fernández‐Gavilanes, M. (2021). Teaching structural analysis theory with Jupyter Notebooks. Computer Applications in Engineering Education. https://doi.org/10.1002/cae.22383
